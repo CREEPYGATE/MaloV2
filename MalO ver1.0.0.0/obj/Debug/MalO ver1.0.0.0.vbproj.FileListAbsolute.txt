@@ -1,0 +1,22 @@
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.vbproj.AssemblyReference.cache
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.vbproj.GenerateResource.cache
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.vbproj.CoreCompileInputs.cache
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.vbproj.ResolveComReference.cache
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\bin\Debug\MalO ver1.0.0.0.exe.manifest
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\bin\Debug\MalO ver1.0.0.0.application
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\bin\Debug\MalO ver1.0.0.0.exe
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\bin\Debug\MalO ver1.0.0.0.pdb
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\bin\Debug\MalO ver1.0.0.0.xml
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO_ver1._0._0._0.Form1.resources
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO_ver1._0._0._0.Form2.resources
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO_ver1._0._0._0.Resources.resources
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.TrustInfo.xml
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.exe.manifest
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.application
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.exe
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.xml
+C:\Users\HANS\source\repos\MalO ver1.0.0.0\MalO ver1.0.0.0\obj\Debug\MalO ver1.0.0.0.pdb
